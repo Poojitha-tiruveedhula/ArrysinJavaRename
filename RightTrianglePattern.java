@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class RightSidedTrianglePatterns
+public class RightTrianglePattern
 {
 public static void main(String[] args)
 {
