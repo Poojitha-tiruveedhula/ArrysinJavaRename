@@ -1,4 +1,4 @@
-# ArrysinJava 
-leaning All the possible ways of usagae of arrays
+# ArraysinJava 
+learning all the possible ways of usages of arrays
 <br>
 Java
